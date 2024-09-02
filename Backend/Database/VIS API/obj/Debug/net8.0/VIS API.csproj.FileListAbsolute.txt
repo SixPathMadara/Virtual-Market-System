@@ -1,0 +1,33 @@
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\appsettings.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\VIS API.exe
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\VIS API.deps.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\VIS API.runtimeconfig.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\VIS API.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\VIS API.pdb
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.csproj.AssemblyReference.cache
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.AssemblyInfoInputs.cache
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.AssemblyInfo.cs
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.csproj.CoreCompileInputs.cache
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.sourcelink.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets\msbuild.VIS API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets\msbuild.build.VIS API.props
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VIS API.props
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VIS API.props
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\scopedcss\bundle\VIS API.styles.css
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.csproj.Up2Date
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\refint\VIS API.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.pdb
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\VIS API.genruntimeconfig.cache
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\obj\Debug\net8.0\ref\VIS API.dll
