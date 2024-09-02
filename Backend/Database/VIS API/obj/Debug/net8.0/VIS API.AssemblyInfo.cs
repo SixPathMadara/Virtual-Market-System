@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6a809185-41e3-4b32-97b6-46de5f8abcfb")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("VIS API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d1f7585be0eb3ab1b5308796d03edbdafc6d61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59735393e35bd8c88e4841cbdf47223103589d45")]
 [assembly: System.Reflection.AssemblyProductAttribute("VIS API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VIS API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
