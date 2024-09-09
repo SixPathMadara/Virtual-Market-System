@@ -16,7 +16,7 @@ namespace VIS_API.Controllers
             _marketService = marketContext;
         }
 
-        //POST: api/user
+        //POST: VIS_API/markets
         [HttpPost]
         public async Task<ActionResult<Market>> CreateMarket([FromBody] Market market)
         {
@@ -24,14 +24,14 @@ namespace VIS_API.Controllers
             return CreatedAtAction(nameof(GetMarket), new { id = CreatedMarket.MarketID });
         }
 
-        //GET : api/market
+        //GET : VIS_API/markets
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Market>>> GetMarkets()
         {
             var markets = await _marketService.GetAllMarketsAsync();
             return Ok(markets);
         }
-        //GET: user api/market/{marketID}
+        //GET: VIS_API/markets/{marketID}
         [HttpGet("{id}")]
         public async Task<ActionResult<Market>> GetMarket(int id)
         {
@@ -43,7 +43,7 @@ namespace VIS_API.Controllers
             return Ok(market);
         }
 
-        // PUT: api/user/{id}
+        // PUT: VIS_API/,arkets/{id}
         [HttpPut("{id}")]
         public async Task<IMarketService> UpdateMarket(int id, [FromBody] Market updatedMarket)
         {
@@ -58,6 +58,8 @@ namespace VIS_API.Controllers
             }
             return (IMarketService)NoContent();
         }
+
+      
 
 
     }

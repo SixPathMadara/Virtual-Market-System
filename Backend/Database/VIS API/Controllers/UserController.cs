@@ -18,7 +18,7 @@ namespace VIS_API.Controllers
             _userService = userContext;
         }
 
-        //POST: api/user
+        //POST: VIS_API/users
         [HttpPost]
         public async Task<ActionResult<Users>> CreateUser([FromBody] Users user)
         {

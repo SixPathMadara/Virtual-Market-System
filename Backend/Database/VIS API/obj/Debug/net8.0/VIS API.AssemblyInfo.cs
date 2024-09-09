@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VIS API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8d735a9352db3caa58d8c48b5fc004c32428a94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707f53e8618f4a52b8520f09087e9c3da703b10c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VIS API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VIS API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

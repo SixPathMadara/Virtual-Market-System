@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|c:\\users\\olebogeng.legotsa\\onedrive - forvis mazars\\documents\\visual studio 2022\\virtual market\\virtual-market-system\\backend\\database\\vis api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|c:\\users\\olebogeng.legotsa\\onedrive - forvis mazars\\documents\\visual studio 2022\\virtual market\\virtual-market-system\\backend\\database\\vis api\\controllers\\indicatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|solutionrelative:controllers\\indicatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|c:\\users\\olebogeng.legotsa\\onedrive - forvis mazars\\documents\\visual studio 2022\\virtual market\\virtual-market-system\\backend\\database\\vis api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|c:\\users\\olebogeng.legotsa\\onedrive - forvis mazars\\documents\\visual studio 2022\\virtual market\\virtual-market-system\\backend\\database\\vis api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1299087-FA0E-4D3F-B84B-125CDB983209}|VIS API.csproj|c:\\users\\olebogeng.legotsa\\onedrive - forvis mazars\\documents\\visual studio 2022\\virtual market\\virtual-market-system\\backend\\database\\vis api\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,24 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IndicatorController.cs",
+              "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\IndicatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndicatorController.cs",
+              "ToolTip": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\IndicatorController.cs",
+              "RelativeToolTip": "Controllers\\IndicatorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:41:01.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:32:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MarketController.cs",
               "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\MarketController.cs",
               "RelativeDocumentMoniker": "Controllers\\MarketController.cs",
               "ToolTip": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\MarketController.cs",
               "RelativeToolTip": "Controllers\\MarketController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T12:40:32.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IMarketService.cs",
               "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Services\\IMarketService.cs",
               "RelativeDocumentMoniker": "Services\\IMarketService.cs",
@@ -91,25 +117,11 @@
               "RelativeToolTip": "Services\\IMarketService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:47:52.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T08:47:52.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IndicatorController.cs",
-              "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\IndicatorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\IndicatorController.cs",
-              "ToolTip": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\IndicatorController.cs*",
-              "RelativeToolTip": "Controllers\\IndicatorController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:41:01.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MarketService.cs",
               "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Services\\MarketService.cs",
               "RelativeDocumentMoniker": "Services\\MarketService.cs",
@@ -117,12 +129,11 @@
               "RelativeToolTip": "Services\\MarketService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:06:33.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:06:33.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -130,12 +141,11 @@
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:06:12.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:06:12.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
@@ -143,21 +153,7 @@
               "RelativeToolTip": "Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:43:48.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\Backend\\Database\\VIS API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:32:20.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T12:43:48.524Z"
             },
             {
               "$type": "Document",
@@ -169,8 +165,7 @@
               "RelativeToolTip": "Model\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:24:12.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:24:12.994Z"
             },
             {
               "$type": "Document",
@@ -182,8 +177,7 @@
               "RelativeToolTip": "Services\\IIndicatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:05:50.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:05:50.115Z"
             },
             {
               "$type": "Document",
@@ -195,8 +189,7 @@
               "RelativeToolTip": "Model\\Market.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:26:10.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:26:10.907Z"
             },
             {
               "$type": "Document",
