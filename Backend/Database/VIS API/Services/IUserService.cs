@@ -8,6 +8,7 @@ namespace VIS_API.Services
     {
         Task<Users> CreateUserAsync(Users user);
         Task<Users> GetUserByIDAsync(int id);
+        Task<IEnumerable<Users>> GetAllUsersAsync();
         Task<bool> UpdateUserAsync(Users user);
         Task<bool> DeleteUserAsync(int id);
     }

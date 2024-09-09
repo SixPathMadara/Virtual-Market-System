@@ -12,6 +12,13 @@ namespace VIS_API.Services
             _context = context;
         }
 
+        public async Task<Market> CreateMarketAsync(Market market)
+        {
+            _context.Markets.Add(market);
+            await _context.SaveChangesAsync();
+            return market;
+        }
+
         public async Task<IEnumerable<Market>> GetAllMarketsAsync()
         {
             return await _context.Markets.ToListAsync();

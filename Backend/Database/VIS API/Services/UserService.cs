@@ -31,6 +31,11 @@ namespace VIS_API.Services
             return true;
         }
 
+        public async Task<IEnumerable<Users>> GetAllUsersAsync()
+        {
+            return await _context.Users.ToListAsync();
+        }
+
         public async Task<Users> GetUserByIDAsync(int id)
         {
             var user= await _context.Users.FindAsync(id);
