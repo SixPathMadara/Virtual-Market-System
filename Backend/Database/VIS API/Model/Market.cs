@@ -2,7 +2,7 @@
 {
     public class Market
     {
-        public int MarketID {get;set;}
+        public int MarketID {get;set;} //Primary Key
         public string MarketName {get;set;}
         public double CurrentPrice { get;set; }
 
@@ -10,8 +10,8 @@
 
     public class MarketAnalysis
     {
-        public int MarketID { get; private set; }
-        public int IndicatorID { get; set; }
+        public int MarketID { get; private set; } //Primary Key
+        public int IndicatorID { get; set; } // Foreign Key
         public double MarketStartPrice { get; }
         public double MarketEndPrice { get; }  
         public string MarketDirection { get; set; }

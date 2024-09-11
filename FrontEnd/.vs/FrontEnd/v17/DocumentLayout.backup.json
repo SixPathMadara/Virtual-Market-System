@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\FrontEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEAE2D2-0C28-4113-93F5-EADCBA2CBFD5}|FrontEnd\\FrontEnd.csproj|c:\\users\\olebogeng.legotsa\\onedrive - forvis mazars\\documents\\visual studio 2022\\virtual market\\virtual-market-system\\frontend\\frontend\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEAE2D2-0C28-4113-93F5-EADCBA2CBFD5}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\FrontEnd\\FrontEnd\\Class1.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Class1.cs",
+              "ToolTip": "C:\\Users\\olebogeng.legotsa\\OneDrive - Forvis Mazars\\Documents\\Visual Studio 2022\\Virtual Market\\Virtual-Market-System\\FrontEnd\\FrontEnd\\Class1.cs",
+              "RelativeToolTip": "FrontEnd\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:45:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

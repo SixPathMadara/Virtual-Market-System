@@ -74,7 +74,7 @@
   {
     "ContainingType": "VIS_API.Controllers.IndicatorController",
     "Method": "UpdateIndicator",
-    "RelativePath": "api/Indicator/{id}",
+    "RelativePath": "api/Indicator/{IndicatorID}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -82,11 +82,16 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       },
       {
         "Name": "updatedIndicator",
         "Type": "VIS_API.Model.MarketIndicator",
+        "IsRequired": true
+      },
+      {
+        "Name": "IndicatorID",
+        "Type": "",
         "IsRequired": true
       }
     ],
@@ -105,7 +110,7 @@
   {
     "ContainingType": "VIS_API.Controllers.IndicatorController",
     "Method": "DeleteIndicator",
-    "RelativePath": "api/Indicator/{id}",
+    "RelativePath": "api/Indicator/{IndicatorID}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -113,6 +118,11 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "IndicatorID",
+        "Type": "",
         "IsRequired": true
       }
     ],

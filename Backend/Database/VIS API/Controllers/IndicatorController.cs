@@ -44,7 +44,7 @@ namespace VIS_API.Controllers
         }
 
         // PUT: VIS_API/indicators/{id}
-        [HttpPut("{id}")]
+        [HttpPut("{IndicatorID}")]
         public async Task<IIndicatorService> UpdateIndicator(int id, [FromBody] MarketIndicator updatedIndicator)
         {
             if (id != updatedIndicator.IndicatorID)
@@ -60,7 +60,7 @@ namespace VIS_API.Controllers
         }
 
         //DELETE: VIS_API/indicators/{id}
-        [HttpDelete("{id}")]
+        [HttpDelete("{IndicatorID}")]
 
         public async Task<IActionResult> DeleteIndicator(int id)
         {

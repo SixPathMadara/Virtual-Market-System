@@ -2,13 +2,13 @@
 {
     public class MarketIndicator
     {
-        public int IndicatorID { get; set; }
+        public int IndicatorID { get; set; } // Primary Key
         public string IndicatorName { get; set; }
     }
 
     public class IndicatorAnalysis
     {
-        public int IndicatorID { get; private set; }
+        public int IndicatorID { get; private set; } // Primary Key
         public double IndicatorCurrentPrice { get; set; }
         public double IndicatorStartPrice { get; set; }
         public byte[] IndicatorImage { get; set; }
