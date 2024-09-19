@@ -13,7 +13,8 @@ namespace VIS_API.Services
         }
         public async Task<Users> CreateUserAsync(Users user)
         {
-            _context.Users.Add(user);
+            
+            _context.Users.AddAsync(user);
             await _context.SaveChangesAsync();
             return user;
         }

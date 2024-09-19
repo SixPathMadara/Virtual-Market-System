@@ -22,6 +22,9 @@ namespace VIS_API.Controllers
         [HttpPost]
         public async Task<ActionResult<Users>> CreateUser([FromBody] Users user)
         {
+            if (user == null) {
+                return BadRequest("User object is null");
+                    }
             var CreatedUser = await _userService.CreateUserAsync(user);
             return CreatedAtAction(nameof(GetUser), new { id = CreatedUser.UserID });
         }

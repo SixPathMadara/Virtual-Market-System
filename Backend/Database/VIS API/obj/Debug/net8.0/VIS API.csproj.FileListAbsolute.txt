@@ -251,3 +251,4 @@ C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022
 C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\olebogeng.legotsa\OneDrive - Forvis Mazars\Documents\Visual Studio 2022\Virtual Market\Virtual-Market-System\Backend\Database\VIS API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

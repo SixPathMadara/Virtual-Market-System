@@ -6,9 +6,9 @@
     "mssql1": {
       "serviceConnectorResourceId": "",
       "secretStore": "LocalSecretsFile",
-      "resourceId": null,
       "type": "mssql.local",
-      "connectionId": "ConnectionStrings:MarketDB"
+      "connectionId": "Logging:ConnectionString:DefaultConnection",
+      "dynamicId": null
     }
   }
 }

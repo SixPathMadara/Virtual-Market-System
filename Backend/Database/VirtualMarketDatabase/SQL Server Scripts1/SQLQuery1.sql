@@ -1,1 +1,4 @@
-select  * from MarketUsers
+DROP TABLE Markets;
+SET IDENTITY_INSERT Markets ON;
+SET IDENTITY_INSERT MarketUsers ON;
+SET IDENTITY_INSERT MarketIndicator ON;

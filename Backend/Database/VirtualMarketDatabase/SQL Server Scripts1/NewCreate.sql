@@ -1,4 +1,4 @@
-CREATE DATABASE MarketDB
+CREATE DATABASE MarketDB2
 
 
 CREATE TABLE MarketUsers(
@@ -26,7 +26,7 @@ IndicatorDescription VARCHAR(255),
 FOREIGN KEY (IndicatorID) REFERENCES MarketIndicator
 );
 
-CREATE TABLE Markets(
+CREATE TABLE Market(
 MarketID INT NOT NULL,
 MarketName VARCHAR(10) NOT NULL,
 MarketCurrentPrice DECIMAL NOT NULL,
